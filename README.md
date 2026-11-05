@@ -15,7 +15,7 @@
 ## 기존 사용자 업데이트
 
 - **1.2.0 이상:** 앱의 **앱 업데이트** 버튼으로 최신 버전을 받습니다.
-- **1.0 / 1.1:** [최초 연결 패치](https://github.com/promise0627/linkcatch-updates/releases/download/v1.2.1/LinkCatch-1.2.1-bootstrap.zip)를 압축 해제하고 앱 종료 후 `apply-update.cmd`를 실행하여 기존 앱 폴더를 지정합니다. 또는 새 바로 실행 ZIP을 사용합니다.
+- **1.0 / 1.1:** [최초 연결 패치](https://github.com/promise0627/linkcatch-updates/releases/download/v1.2.2/LinkCatch-1.2.2-bootstrap.zip)를 압축 해제하고 앱 종료 후 `apply-update.cmd`를 실행하여 기존 앱 폴더를 지정합니다. 또는 새 바로 실행 ZIP을 사용합니다.
 - **엔진 갱신:** 공식 배포처의 yt-dlp만 갱신합니다.
 
 [배포 버전과 SHA256 체크섬](https://github.com/promise0627/linkcatch-updates/releases/latest)
